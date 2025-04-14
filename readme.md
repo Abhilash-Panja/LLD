@@ -1,14 +1,10 @@
-Here's a **neater and more polished** version of the README design, emphasizing clarity, structure, and professionalism:
-
 ---
-
 # 🎯 **Single Responsibility Principle (SRP)**
 
 The **Single Responsibility Principle (SRP)** is the first principle of the **SOLID** design principles. It states that a class should have **one reason to change**. In essence, each class should only have one responsibility. This promotes **clean**, **maintainable**, and **flexible** code.
 
-> **"A class should have only one reason to change."**  
+> **"A class should have only one reason to change."**
 > — _Robert C. Martin_
-
 ---
 
 ## 🔍 **What is SRP?**
